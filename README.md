@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 aaaddress1</h1>
+<h1 align="center">Hi👋 I'm aaaddress1</h1>
 - 🌱 I’m currently learning **Symbolic Execution**
 
 - 📫 How to reach me **aaaddress1@chroot.org**
