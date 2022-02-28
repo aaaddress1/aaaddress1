@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 aaaddress1</h1>
 - 🌱 I’m currently learning **Symbolic Execution**
 
 - 📫 How to reach me **aaaddress1@chroot.org**
-
-- ⚡ Fun fact **I have 30cm.tw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaaddress1&show_icons=true&locale=en&layout=compact" alt="aaaddress1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaddress1&show_icons=true&locale=en" alt="aaaddress1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaaddress1&" alt="aaaddress1" /></p>
